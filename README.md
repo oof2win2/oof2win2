@@ -16,10 +16,6 @@ So, when I code, it generally is not usable code that someone else would want to
 
   I also have some things I like. Here are a few:
   - Programming
-<<<<<<< HEAD
   - Playing videogames (Factorio is one of the best, if not THE best)
-=======
-  - Playing videogames ([Factorio](factorio.com) is one of the best, if not THE best)
->>>>>>> 74b8407a2bbb29e23c68988e3bf339876b67cf86
   - Binging Netflix
 </details>
