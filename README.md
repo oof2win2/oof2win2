@@ -21,7 +21,7 @@ So, when I code, it generally is not usable code that someone else would want to
 </details>
 <details>
   <summary>My Projects</summary>
-  - (filiptronicek/github-stuff)[https://github.com/filiptronicek/protab-stuff] - This is made with my friends from Protab2020, is finished, but it is just a bunch of scripts for very specific things
+  - [filiptronicek/github-stuff](https://github.com/filiptronicek/protab-stuff) - This is made with my friends from Protab2020, is finished, but it is just a bunch of scripts for very specific things
   - electronTimeApp - Styling could/should be added, app could be published to Electron
   - snake - This is still WIP, will not be published as a stand-alone app, rather will be compiled by the user (if there will be any) and then ran
   - brazzers-bot - This is also WIP, but it hopefully will be added somewhere for end users to upload images and this to do it's magic on a website or something
