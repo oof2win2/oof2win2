@@ -6,7 +6,8 @@ So, when I code, it generally is not usable code that someone else would want to
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oof2win2&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oof2win2&hide=lua&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oof2win2&hide=lua&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![oof2win2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oof2win2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>Something about me...</summary>
